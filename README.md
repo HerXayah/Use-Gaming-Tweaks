@@ -8,6 +8,7 @@ This Guide describes the Correct Usage for CHEF-KOCHS Gaming Tweaks Repo for dum
 * [Credits](#credits)
 * [Disclaimer](#disclaimer)
 * [Part 1](#part-1)
+* [Part 2](#part-2)
 
 
 
@@ -59,3 +60,18 @@ When its open do like i do here
 <p align="center">
 <img src="https://sexin.church/XQeNXNYCoU.gif?key=FUcwTKAAYJ4r4D">
 </p>
+Now your Windows should be activated :3 ❤
+
+Now we can Continue to Part 2
+
+# Part 2
+
+For that open Regedit by Pressing Windows + R and then type Regedit. When open navigate to ```HKEY_CURRENT_USER\Control Panel\Mouse```
+<p align="center">
+<img src="https://fuckedyour.mom/64YU4TitqG.png?key=wGopqBi8hXm6fI">
+</p>
+Then change the Circled Values to this
+<p align="center">
+<img src="https://sexin.church/Kmozzu8yqJ.png?key=n04AQiSQHUqMAT">
+</p>
+
