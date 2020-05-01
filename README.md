@@ -11,6 +11,8 @@ This Guide describes the Correct Usage for CHEF-KOCHS Gaming Tweaks Repo for dum
 * [Part 2](#part-2)
 * [Part 3](#part-3)
 * [Part 4](#part-4)
+* [Part 5](#part-5)
+* [Additional Tweaks](#additional-tweaks)
 * [End?](#end)
 
 
@@ -271,6 +273,100 @@ shell:Startup
 ```
 and paste the Shortcut you created in there.
 Voila ur done
+
+# Part 5
+
+Drivers? If you use an NVIDIA GPU use these Drivers repacked by Chef-Koch.
+To install them uninstall your old Driver with [this](https://www.wagnardsoft.com/content/ddu-guide-tutorial) Guide.
+After your back to Windows open a CMD and type
+```
+bcdedit -set loadoptions DISABLE_INTEGRITY_CHECKS
+
+bcdedit -set testsigning ON
+
+shutdown.exe /r /o
+```
+Now install the driver with ,,Latest release,, and not ,,Pre-Release,, found [here](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases)
+
+After it installed successfully open CMD again without rebooting and copy paste this
+```
+bcdedit -set loadoptions ENABLE_INTEGRITY_CHECKS
+
+bcdedit -set TESTSIGNING OFF
+```
+
+After you have done that download [this](https://github.com/CHEF-KOCH/MSI-utility/releases/download/2.0/MSI_util_v2.zip), open it as Admin and select your GPU like i do here
+<p align="center">
+<img src="https://fuckedyour.doctor/s3wS5mQuJg.png?key=EM9fylDuv2B0Oj">
+</p>
+then press Apply and reboot
+
+# Additional Tweaks
+
+Open a Txt and paste these in and save them as .reg to execute them
+```
+Windows Registry Editor Version 5.00
+
+; Boost the CPU priority, it's normally not nessary but on some AMD machines that can be useful
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\GTA5.exe\PerfOptions]
+"CpuPriorityClass"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\gtavlauncher.exe\PerfOptions]
+"CpuPriorityClass"=dword:00000005
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\subprocess.exe\PerfOptions]
+"CpuPriorityClass"=dword:00000005
+```
+```
+Windows Registry Editor Version 5.00
+
+; Speed up the Shell and the Desktop by increasing (lowering) some timeout's
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"DesktopLivePreviewHoverTime"=dword:00000001
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+"MouseHoverTime"="1"
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"MenuShowDelay"="1"
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"ActiveWndTrackTimeout"=dword:0000000a
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"Start_ShowRun"=dword:00000001
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoLowDiskSpaceChecks"=dword:00000001
+"LinkResolveIgnoreLinkInfo"=dword:00000001
+"NoResolveSearch"=dword:00000001
+"NoResolveTrack"=dword:00000001
+"NoInternetOpenWith"=dword:00000001
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"AutoEndTasks"="1"
+"HungAppTimeout"="2000"
+"MenuShowDelay"="0"
+"WaitToKillAppTimeout"="3000"
+"LowLevelHooksTimeout"="2000"
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet002\Control]
+"WaitToKillServiceTimeout"="2000"
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control]
+"WaitToKillServiceTimeout"="2000"
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]
+"WaitToKillServiceTimeout"="2000"
+```
+```
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NvTelemetryContainer]
+"Start"=dword:00000004
+```
+```
+Windows Registry Editor Version 5.00
+
+; Disable Shadowplay and nVidia Backend (NvBackend) (the little icon in the taskbar)
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+- "NvBackend"="\"C:\\Program Files (x86)\\NVIDIA Corporation\\Update Core\\NvBackend.exe\""
+- "ShadowPlay"="\"C:\\Windows\\system32\\rundll32.exe\" C:\\Windows\\system32\\nvspcap64.dll,ShadowPlayOnSystemStart"
+```
+Credits to CHEF-KOCH again
+
 
 # End?
 
