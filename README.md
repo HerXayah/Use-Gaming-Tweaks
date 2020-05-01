@@ -39,3 +39,23 @@ Unzip it in the ESD Folder and drag the .esd file you downloaded onto the decryp
 <p align="center">
 <img src="https://nuke.bayern/1sZThUKvzy.png?key=Z1eVKdgluspqrj">
 </p>
+Press 2 and then 3!!! You need to select Windows Enterprise
+<p align="center">
+<img src="https://i.uwu.plus/qmeHscM3qQ.png?key=9ocMBydy3K8xOc">
+</p>
+and in the next screen Press 2 for ISO with compressed install.esd
+<p align="center">
+<img src="https://nuke.bayern/D6bU2JYjRV.png?key=f1GhsBJE2p3fLb">
+</p>
+Now just wait untill its done with decrypting. After that you should have a ISO File in the Folder.
+Doubleklick it and open setup.exe
+<p align="center">
+<img src="https://sexin.church/BFyGG2rX2a.png?key=GstZCRTLKbPTQL">
+</p>
+Then choose ,,keep my Files,, and let it run and reboot you multiple times and your now on 2004 Enterprise.
+What you wanna do next to get a valid liscense is this [file](https://drive.google.com/file/d/1TJd9T433S2gLL4QwK8DcnhUQY90jiEey/view?usp=sharing).
+When you unzip it go into HWIDGEN-SRC-master\src\externals then open the hwid.kms38.gen.mk6.exe.
+When its open do like i do here
+<p align="center">
+<img src="https://sexin.church/XQeNXNYCoU.gif?key=FUcwTKAAYJ4r4D">
+</p>
