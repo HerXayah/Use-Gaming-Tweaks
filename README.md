@@ -66,12 +66,11 @@ Now we can Continue to Part 2
 
 # Part 2
 
-For that open Regedit by Pressing Windows + R and then type Regedit. When open navigate to ```HKEY_CURRENT_USER\Control Panel\Mouse```
+For that open Regedit by Pressing Windows + R and then type Regedit.
+When open navigate to ```HKEY_CURRENT_USER\Control Panel\Mouse```
 <p align="center">
 <img src="https://fuckedyour.mom/64YU4TitqG.png?key=wGopqBi8hXm6fI">
 </p>
 Then change the Circled Values to this
-<p align="center">
 <img src="https://sexin.church/Kmozzu8yqJ.png?key=n04AQiSQHUqMAT">
-</p>
 
