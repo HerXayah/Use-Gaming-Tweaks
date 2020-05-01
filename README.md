@@ -73,4 +73,4 @@ When open navigate to ```HKEY_CURRENT_USER\Control Panel\Mouse```
 </p>
 Then change the Circled Values to this
 <img src="https://sexin.church/Kmozzu8yqJ.png?key=n04AQiSQHUqMAT">
-
+```Credits to CHEF-KOCH bc i stole that IMG from his Repo```
