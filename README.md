@@ -62,7 +62,7 @@ Doubleklick it and open setup.exe
 <img src="https://sexin.church/BFyGG2rX2a.png?key=GstZCRTLKbPTQL">
 </p>
 Then choose ,,keep my Files,, and let it run and reboot you multiple times and your now on 2004 Enterprise.
-What you wanna do next to get a valid liscense is this https://anonfile.com/39eckexao5/HWIDGEN-SRC-master_zip
+What you wanna do next to get a valid liscense is this https://github.com/CHEF-KOCH/HWIDGEN-SRC/archive/master.zip
 When you unzip it go into HWIDGEN-SRC-master\src\externals then open the hwid.kms38.gen.mk6.exe.
 When its open do like i do here
 <p align="center">
