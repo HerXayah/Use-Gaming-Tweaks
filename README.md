@@ -85,11 +85,11 @@ Credits to CHEF-KOCH bc i stole that IMG from his Repo
 
 After you have done that go into the Control Panel and go into mouse settings and edit them like here
 <p align="center">
-<img src="https://fuckedyour.doctor/7arG1tfE6j.png?key=wFilhDvv4uvd84">
+<img src="https://i.imgur.com/sE4uLvg.png">
 </p>
 *Edit: Make sure you dont change Pointer Speed
 
-If you want something cool to have for less Input Delay go to [MouseSync](https://www.mousesync.com/)
+If you want something cool to have for less Input Delay go to [MouseSync](https://mousesync.com/)
 When you unzip it Open the exe, let it install and then reboot.
 After you rebooted set the Values like this. edit it to your own values though
 <p align="center">
