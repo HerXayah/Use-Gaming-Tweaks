@@ -371,6 +371,18 @@ Windows Registry Editor Version 5.00
 Credits to CHEF-KOCH again
 
 
+# Part 6
+
+Windows/Driver Debloating?
+
+Since you can debloat Windows, ill link the Tool on how to do it.
+It can be found [here](https://github.com/Sycnex/Windows10Debloater)
+
+There is also a Way to Debloat NVIDIA Drivers, which can be found
+[here](https://www.techpowerup.com/download/techpowerup-nvcleanstall/).
+Its pretty Self-Explainable
+
+
 # End?
 
 If i find more stuff i will obv post it in here but that is it for now ❤❤
