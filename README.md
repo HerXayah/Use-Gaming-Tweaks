@@ -1,7 +1,7 @@
 # Use-Gaming-Tweaks
 This Guide describes the Correct Usage for CHEF-KOCHS Gaming Tweaks Repo for dummies
 
-[![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fprincessakari_)](https://twitter.com/princessakari_)
+[![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fprincessakari_)](https://twitter.com/AzarielDev)
 [![Discord](https://img.shields.io/discord/622504866132000768?logo=Discord)](https://discord.gg/8AyNesa)
 
 * [Use-Gaming-Tweaks](#use-gaming-tweaks)
@@ -19,7 +19,7 @@ This Guide describes the Correct Usage for CHEF-KOCHS Gaming Tweaks Repo for dum
 
 # Credits
 
-Full Credits for this go to [CHEF-KOCH](https://github.com/CHEF-KOCH) and his [GamingTweaks](https://github.com/CHEF-KOCH/GamingTweaks) Repo <3
+Full Credits for this go to [CHEF-KOCH](https://github.com/CHEF-KOCH) and his [GamingTweaks](https://web.archive.org/web/20200420131857/https://github.com/CHEF-KOCH/GamingTweaks) Repo <3
 ![Matrix](https://img.shields.io/matrix/cknews:matrix.org.svg?label=CK%27s%20Technology%20News%20-%20Matrix%20Chat&server_fqdn=matrix.org&style=popout)
 ![Twitter Follow](https://img.shields.io/twitter/follow/@CKsTechNews.svg?label=Follow%20%40CKsTechNews&style=social)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
