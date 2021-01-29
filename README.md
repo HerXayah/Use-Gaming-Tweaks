@@ -383,6 +383,11 @@ There is also a Way to Debloat NVIDIA Drivers, which can be found
 Its pretty Self-Explainable
 
 
+# Part 7
+
+Here are some services you can disable to get about 50 Processes on Startup, written by me also this time
+https://linustechtips.com/topic/1261199-which-services-should-i-disable/?do=findComment&comment=14433444
+
 # End?
 
 If i find more stuff i will obv post it in here but that is it for now ❤❤
