@@ -1,7 +1,7 @@
 # Use-Gaming-Tweaks
 This Guide describes the Correct Usage for CHEF-KOCHS Gaming Tweaks Repo for dummies
 
-[![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fprincessakari_)](https://twitter.com/AzarielDev)
+[![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2FAzarielDev)](https://twitter.com/AzarielDev)
 [![Discord](https://img.shields.io/discord/622504866132000768?logo=Discord)](https://discord.gg/8AyNesa)
 
 * [Use-Gaming-Tweaks](#use-gaming-tweaks)
