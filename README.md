@@ -12,6 +12,8 @@ This Guide describes the Correct Usage for CHEF-KOCHS Gaming Tweaks Repo for dum
 * [Part 3](#part-3)
 * [Part 4](#part-4)
 * [Part 5](#part-5)
+* [Part 6](#part-6)
+* [Part 7](#part-7)
 * [Additional Tweaks](#additional-tweaks)
 * [End?](#end)
 
